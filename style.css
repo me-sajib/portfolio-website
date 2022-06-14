@@ -6,6 +6,7 @@
   display: -webkit-box;
   display: -ms-flexbox;
 }
+.b{color:red}
 .preloaded .loader_line,
 .preloaded .loader_line:after {
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
